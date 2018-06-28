@@ -18,5 +18,5 @@ To use the plugin, include either dist\jquery.cardswipe.js or dist\jquery.cardsw
 If you are scanning credit cards like Visa, MasterCard, or American Express, there are built-in parsers within the plugin that can recognize those formats. A built-in generic parser will parse up to three lines of data. To scan private-use cards, like company or institutional ID cards, you'll need to create your own parser function, as described below.
 
 # How to test
-Run this project using visual studio. once home page is loaded, you can swipe the card, either data will filled up if card type matches with the payment card or notification will come up with correct data in case generic card type.
+Run this project using visual studio. once home page is loaded, you can swipe the card, either data will filled up if card type matches with the payment card or notification will come up with correct data in case of generic card type.
 
