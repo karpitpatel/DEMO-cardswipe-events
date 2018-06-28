@@ -1,4 +1,4 @@
-# DEMO-jquery.cardswipe
+# DEMO-cardswipe-events
 This application will read the data from USB magnetic card reader using jquery.
 
 # What It Does
